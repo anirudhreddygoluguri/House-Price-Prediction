@@ -1,3 +1,2 @@
 # House-Price-Prediction
-The House Price prediction python file deals with many hurdles such as categorical data, missing data, skewed data and measure implemented to overcome those
-challeges
+The House Price prediction python file deals with many hurdles such as categorical data, missing data, skewed data and measure implemented to overcome those by transforming the data using the logarithm transformation and for the categorical data I have implemented the label encoding technique and for the missing data I have implemented the fillna method for each variable accordingly by selecting mean and mode whichever best suits at that point for that variable. And for the predictions I have implemented the Kernel Ridge, Lasso, Gradient Boosting, XgBoost, Light Gradient Boosting and Elastic Net techniques in addition with the stacking method by the help of the cross validation.
